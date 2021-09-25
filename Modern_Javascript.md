@@ -105,7 +105,13 @@ https://jscomplete.com/learn/lab-hofs
 
 https://jscomplete.com/learn/lab-closures
 
+https://jscomplete.com/learn
 
+https://jscomplete.com/learn/complete-intro-modern-javascript/1mjs1-introduction
+
+https://jscomplete.com/learn/react-beyond-basics/introduction
+
+https://jscomplete.com/learn/react-beyond-basics/react-cfp
 
 
 
